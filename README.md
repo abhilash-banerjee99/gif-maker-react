@@ -23,3 +23,9 @@ Your app is ready to be deployed!
 
 Launches the application test runner.
 Run with the `--watch` flag (`npm test -- --watch`) to run in interactive watch mode.
+
+
+## Screenshots
+-![Screenshot1](https://github.com/abhilash-banerjee99/gif-maker-react/blob/main/GIFMAKER1.png)
+-![Screenshot2](https://github.com/abhilash-banerjee99/gif-maker-react/blob/main/GIFMAKER2.png)
+-![Screenshot3](https://github.com/abhilash-banerjee99/gif-maker-react/blob/main/GIFMAKER3.png)
